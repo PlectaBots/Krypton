@@ -1,0 +1,19 @@
+{
+  "name": "krypton",
+  "version": "0.1.0",
+  "description": "a Bot that will keep your server save ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo testing"
+  },
+  "author": "LukasItzzy",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mongodb": "^3.6.9",
+    "@types/node": "^14.14.34",
+    "@types/ws": "^7.4.0",
+    "discord-akairo": "github:discord-akairo/discord-akairo",
+    "discord.js": "github:discordjs/discord.js",
+    "mongodb": "^3.6.4"
+  }
+}
