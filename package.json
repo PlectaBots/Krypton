@@ -9,7 +9,7 @@
   "author": "LukasItzzy",
   "license": "MIT",
   "dependencies": {
-    "@types/mongodb": "^3.6.9",
+    "@types/mongodb": "^3.6.10",
     "@types/node": "^14.14.34",
     "@types/ws": "^7.4.0",
     "discord-akairo": "github:discord-akairo/discord-akairo",
